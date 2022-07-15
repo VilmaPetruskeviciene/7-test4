@@ -1,0 +1,24 @@
+{
+  "name": "9-test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VilmaPetruskeviciene/9-test2.git"
+  },
+  "keywords": [],
+  "author": "vilma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VilmaPetruskeviciene/9-test2/issues"
+  },
+  "homepage": "https://github.com/VilmaPetruskeviciene/9-test2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
